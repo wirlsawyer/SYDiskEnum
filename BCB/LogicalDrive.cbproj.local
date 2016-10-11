@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/05/30 10:37:40.940.cpp,C:\Users\Sawyer\Documents\RAD Studio\Projects\Unit1.cpp=G:\新增資料夾 (2)\Unit1.cpp</Transaction>
+    <Transaction>2014/05/30 10:37:40.940.h,C:\Users\Sawyer\Documents\RAD Studio\Projects\Unit1.h=G:\新增資料夾 (2)\Unit1.h</Transaction>
+    <Transaction>2014/05/30 10:37:40.940.dfm,C:\Users\Sawyer\Documents\RAD Studio\Projects\Unit1.dfm=G:\新增資料夾 (2)\Unit1.dfm</Transaction>
+    <Transaction>2014/05/30 10:37:44.335.cbproj,C:\Users\Sawyer\Documents\RAD Studio\Projects\Project1.cbproj=G:\新增資料夾 (2)\LogicalDrive.cbproj</Transaction>
+    <Transaction>2014/05/30 15:25:30.940.cpp,G:\新增資料夾 (2)\Unit2.cpp=G:\新增資料夾 (2)\Disk.cpp</Transaction>
+    <Transaction>2014/05/30 15:25:30.940.h,G:\新增資料夾 (2)\Unit2.h=G:\新增資料夾 (2)\Disk.h</Transaction>
+    <Transaction>2014/05/30 15:25:56.940.cpp,G:\新增資料夾 (2)\Disk.cpp=G:\新增資料夾 (2)\DiskEnum.cpp</Transaction>
+    <Transaction>2014/05/30 15:25:56.940.h,G:\新增資料夾 (2)\Disk.h=G:\新增資料夾 (2)\DiskEnum.h</Transaction>
+  </Transactions>
+</BorlandProject>
